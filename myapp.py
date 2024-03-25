@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 from PIL import Image
-import plotly as px
+import plotly.express as px
 
 image = Image.open('data/Store.jpg')
 
